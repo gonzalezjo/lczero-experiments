@@ -1,0 +1,4 @@
+./bsc e inputfile outputfile -b1024 -ca -e2 -s -r -H28 -M255
+
+
+
