@@ -1,2 +1,2 @@
 Put networks in uncompressed to test.
-Run w/LuaJIT
+Run w/LuaJIT (2.1 may be necessary)
